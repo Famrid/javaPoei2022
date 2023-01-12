@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Exercice4 {
     public static void main(String[] args) {
         int langue = 0;
-        int indexJour = 7;
+        int indexJour = 0;
         String[][] tableauJourMultilingue = new String[2][7];
         tableauJourMultilingue[0] = new String[]{"Lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"};
         tableauJourMultilingue[1] = new String[]{"Monday", "tuesday", "wednesday", "thirsday", "fryday", "saturday", "sunday"};
